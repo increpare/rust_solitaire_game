@@ -244,4 +244,6 @@ fn do_sim(){
 }
 
 
-do_sim();
+fn main() {
+	do_sim();
+}
